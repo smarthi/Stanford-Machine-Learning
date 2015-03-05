@@ -1,1 +1,1 @@
-Programming Assignments from Prof. Andrew Ng's Coursera online Machine Learning class.
+Programming Assignments from Stanford online Machine Learning class, October - December 2011
