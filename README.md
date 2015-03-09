@@ -1,1 +1,1 @@
-Programming Assignments from Stanford online Machine Learning class, October - December 2011
+Programming Assignments from Stanford's Online Machine Learning class, October - December 2011
